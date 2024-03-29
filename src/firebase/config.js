@@ -5,7 +5,7 @@ import 'firebase/storage'
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-    apiKey: "AIzaSyBlDQhCn8_Jmn6oeSAwRuwNIA_01lUh0sY",
+    apiKey: "",
     authDomain: "olx-clone-3455b.firebaseapp.com",
     projectId: "olx-clone-3455b",
     storageBucket: "olx-clone-3455b.appspot.com",
@@ -14,5 +14,5 @@ const firebaseConfig = {
     measurementId: "G-7B7RMDMN9R"
 };
 
-// Initialize Firebase
+// Initialize Firebase, key -"1252" "AIzaSyBlDQhCn8_Jmn6oe1252SAwRuwNIA_01lUh0sY"
 export default firebase.initializeApp(firebaseConfig);
